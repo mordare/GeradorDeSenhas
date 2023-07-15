@@ -1,6 +1,6 @@
 # GeradorDeSenhas
 Gerador de senhas simples, feito em JavaScript
 
-<h2>Link para testar:</h2>
+<h2>Link:</h2>
 
-<a href="https://mordare.github.io/GeradorDeSenhas/">https://mordare.github.io/GeradorDeSenhas/</a>
+<a href="https://johnn0101.github.io/GeradorDeSenhas/">CLIQUE AQUI PARA TESTAR!</a>
